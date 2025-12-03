@@ -2,7 +2,7 @@
 
 Buscá, descubrí y disfrutá GIFs en segundos.
 
-🔗 **Live demo: **giffly.netlify.app**
+🔗 **Live demo: [**giffly.netlify.app**](https://giffly.netlify.app/)
 
 ---
 
