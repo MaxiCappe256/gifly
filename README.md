@@ -2,7 +2,7 @@
 
 Buscá, descubrí y disfrutá GIFs en segundos.
 
-🔗 **Live demo:** **
+🔗 **Live demo: **giffly.netlify.app**
 
 ---
 
@@ -37,4 +37,5 @@ Es un proyecto pensado para practicar consumo de APIs, manejo de estado, hooks p
 ---
 
 ## 📁 Estructura del proyecto
+<img width="1920" height="956" alt="{792AFF0A-6859-443E-A50E-25650AF0EE41}" src="https://github.com/user-attachments/assets/54ebe26f-bfec-4db9-b91b-02891acf80cd" />
 
