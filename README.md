@@ -37,5 +37,7 @@ Es un proyecto pensado para practicar consumo de APIs, manejo de estado, hooks p
 ---
 
 ## 📁 Estructura del proyecto
-<img width="1920" height="956" alt="{792AFF0A-6859-443E-A50E-25650AF0EE41}" src="https://github.com/user-attachments/assets/54ebe26f-bfec-4db9-b91b-02891acf80cd" />
+<img width="1901" height="946" alt="{9E3C9902-ACC7-415F-97FE-8B647EFBFEDE}" src="https://github.com/user-attachments/assets/550d7303-8d2c-49f9-a320-dc78929a34b1" />
+
+
 
